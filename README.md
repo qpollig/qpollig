@@ -1,4 +1,10 @@
-## Полина Немечкина · системный аналитик · медтех
+**Polina Nemechkina** - systems analyst and developer building clinical software.
+
+I turn expert knowledge that lives in a specialist's head into reproducible standards and products people use every day. 2+ years of full-stack development (Python/FastAPI, C#/.NET, TypeScript, PostgreSQL).
+
+**Selected work:** FluidCare - an ICU fluid-balance calculator used daily by physicians; registered as software in Russia (certificate No. 2026617585, co-author). Open case study: [fluidcare-case](https://github.com/qpollig/fluidcare-case).
+
+**Currently:** studying chemical technology (BSc, St. Petersburg State Institute of Technology) and building an open QSAR/ADMET project on drug–drug interaction risk — in progress.
 
 Превращаю экспертное знание, которое держится в голове специалиста и применяется «на глаз», в воспроизводимый стандарт и продукт.
 
